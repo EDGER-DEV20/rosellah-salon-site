@@ -48,7 +48,7 @@
             </div>
             <div class="col-md-6">
                 <div class="hero-images">
-                    <img src="{{asset('images/hero-img-2.png')}}" alt="Hero Image" loading="lazy">
+                    <img src="{{asset('images/Hero-img-2.png')}}" alt="Hero Image" loading="lazy">
                     <div class="hero-label">
                         <div class="hero-icon"><i class="bi bi-people"></i></div>Wataalamu
                     </div>
