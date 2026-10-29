@@ -54,11 +54,11 @@
     background-color: #ffffff;
 }
 
-.navbar.scrolled{
+.scrolled.navbar{
     background-color: #ffffffe3;
     backdrop-filter: blur(10px);
     border-bottom: 1px solid #ebeaea;
-    box-shadow: 0 0 30px #00000018;
+    box-shadow: 0 0 30px #00000028;
 }
 
 .logo{
@@ -1279,6 +1279,10 @@
   .navbar-toggler i{
     color:#fd4060;
     font-size: 25px;
+  }
+
+  .nav-link{
+    margin-bottom:5% !important;
   }
     
   .hero {
